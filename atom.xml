@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>樵夫のBLOG</title>
+  
+  
+  <link href="https://qfxaile.github.io/atom.xml" rel="self"/>
+  
+  <link href="https://qfxaile.github.io/"/>
+  <updated>2022-07-22T05:34:25.304Z</updated>
+  <id>https://qfxaile.github.io/</id>
+  
+  <author>
+    <name>Qfxaile</name>
+    
+  </author>
+  
+  <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>删除计算机账户Administrator</title>
+    <link href="https://qfxaile.github.io/2022/07/22/%E5%88%A0%E9%99%A4%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%B4%A6%E6%88%B7Administrator/"/>
+    <id>https://qfxaile.github.io/2022/07/22/%E5%88%A0%E9%99%A4%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%B4%A6%E6%88%B7Administrator/</id>
+    <published>2022-07-21T16:33:52.000Z</published>
+    <updated>2022-07-22T05:34:25.304Z</updated>
+    
+    <content type="html"><![CDATA[<figure class="highlight powershell"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">net user administrator /active:no</span><br></pre></td></tr></table></figure><p>解决账户错误问题</p><p>如图</p><p><img src="https://i0.hdslb.com/bfs/album/4f89908d67c340dfc27b989cc1f91bcc3df1f134.jpg" alt="2"></p><p><img src="https://i0.hdslb.com/bfs/album/57556a4f639d8793a13f48dff89bab16940682f6.jpg" alt="1"></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;figure class=&quot;highlight powershell&quot;&gt;&lt;table&gt;&lt;tr&gt;&lt;td class=&quot;gutter&quot;&gt;&lt;pre&gt;&lt;span class=&quot;line&quot;&gt;1&lt;/span&gt;&lt;br&gt;&lt;/pre&gt;&lt;/td&gt;&lt;td class=&quot;code&quot;&gt;&lt;pre&gt;&lt;spa</summary>
+      
+    
+    
+    
+    
+    <category term="计算机账户" scheme="https://qfxaile.github.io/tags/%E8%AE%A1%E7%AE%97%E6%9C%BA%E8%B4%A6%E6%88%B7/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>我的第一个BLOG</title>
+    <link href="https://qfxaile.github.io/2022/07/21/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AABLOG/"/>
+    <id>https://qfxaile.github.io/2022/07/21/%E6%88%91%E7%9A%84%E7%AC%AC%E4%B8%80%E4%B8%AABLOG/</id>
+    <published>2022-07-21T12:39:59.000Z</published>
+    <updated>2022-07-21T12:50:27.585Z</updated>
+    
+    <content type="html"><![CDATA[<p><strong>还行吧。。。这是一个测试</strong></p><p>blog 编写测试</p><p>可行？</p><h1 id="1-标题"><a href="#1-标题" class="headerlink" title="1.标题"></a>1.标题</h1><h2 id="2-标题"><a href="#2-标题" class="headerlink" title="2.标题"></a>2.标题</h2><p><code>hexo deploy</code></p><ul><li><input disabled="" type="checkbox"> 任务</li><li><input checked="" disabled="" type="checkbox"> 任务2</li><li><input disabled="" type="checkbox"> 3</li></ul><blockquote><p>引用</p><p>2</p></blockquote><p><em>啊这 还行</em></p><table><thead><tr><th>1</th><th>去</th><th></th></tr></thead><tbody><tr><td>2</td><td>我</td><td></td></tr><tr><td>3</td><td>额</td><td></td></tr><tr><td>4</td><td>人</td><td></td></tr></tbody></table><figure class="highlight python"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line"><span class="built_in">print</span>(<span class="string">&#x27;Hello world!&#x27;</span>)</span><br></pre></td></tr></table></figure><hr><p>[^好小]: </p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;&lt;strong&gt;还行吧。。。这是一个测试&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;blog 编写测试&lt;/p&gt;
+&lt;p&gt;可行？&lt;/p&gt;
+&lt;h1 id=&quot;1-标题&quot;&gt;&lt;a href=&quot;#1-标题&quot; class=&quot;headerlink&quot; title=&quot;1.标题&quot;&gt;&lt;/a&gt;1.标题&lt;/h1&gt;</summary>
+      
+    
+    
+    
+    
+    <category term="第一个博客" scheme="https://qfxaile.github.io/tags/%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8D%9A%E5%AE%A2/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="https://qfxaile.github.io/2022/07/21/hello-world/"/>
+    <id>https://qfxaile.github.io/2022/07/21/hello-world/</id>
+    <published>2022-07-21T11:17:52.750Z</published>
+    <updated>2022-07-21T11:17:52.750Z</updated>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">&quot;My New Post&quot;</span></span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.io/docs/&quot;&gt;documentation&lt;/a&gt; for</summary>
+      
+    
+    
+    
+    
+  </entry>
+  
+</feed>
