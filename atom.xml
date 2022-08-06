@@ -6,7 +6,7 @@
   <link href="https://qfxaile.github.io/atom.xml" rel="self"/>
   
   <link href="https://qfxaile.github.io/"/>
-  <updated>2022-07-25T06:33:14.217Z</updated>
+  <updated>2022-08-06T08:12:38.044Z</updated>
   <id>https://qfxaile.github.io/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>运动后效</title>
+    <link href="https://qfxaile.github.io/2022/08/06/%E8%BF%90%E5%8A%A8%E5%90%8E%E6%95%88/"/>
+    <id>https://qfxaile.github.io/2022/08/06/%E8%BF%90%E5%8A%A8%E5%90%8E%E6%95%88/</id>
+    <published>2022-08-06T07:52:14.000Z</published>
+    <updated>2022-08-06T08:12:38.044Z</updated>
+    
+    <content type="html"><![CDATA[<p>视频现象：<a href="https://www.bilibili.com/video/av984238424">https://www.bilibili.com/video/av984238424</a></p><h3 id="一"><a href="#一" class="headerlink" title="一"></a>一</h3><p>盯着如图指示位置 不改变视角 砖块开始逆时针慢速旋转</p><img src="/2022/08/06/%E8%BF%90%E5%8A%A8%E5%90%8E%E6%95%88/1.jpg" class="" width="1"><h3 id="二"><a href="#二" class="headerlink" title="二"></a>二</h3><p>旋转停止 观察原先指示位置 可发现该处有漩涡顺时针旋转</p><img src="/2022/08/06/%E8%BF%90%E5%8A%A8%E5%90%8E%E6%95%88/2.jpg" class="" width="2"><h3 id="三"><a href="#三" class="headerlink" title="三"></a>三</h3><p>该现象解释为[<code>运动后效</code>](<a href="https://baike.baidu.com/item/%E8%BF%90%E5%8A%A8%E5%90%8E%E6%95%88">运动后效_百度百科 (baidu.com)</a>)</p><p>运动后效（motion after effect）是<a href="https://baike.baidu.com/item/%E4%BC%BC%E5%8A%A8/6864671">似动</a>运动的一种。当观察者对一运动物体连续注视一段时间后转而凝视另一不同质的静止表面时，会感到这表面似乎在朝相反的方向运动。如当对飞旋而下的瀑布凝视一段时间后，再看瀑布两边的斜坡时，会感到坡上的树木等物似乎向上“游去”。又如对一个顺时针转的螺旋运动物体注视一段时间后，再看一静止物体表面时，会感到那个物体似乎正在作逆时针的螺旋运动。</p><ul><li><p>中文名</p><p>运动后效</p></li><li><p>解  释</p><p>速度突然的改变给人的一种错觉</p></li><li><p>原  理</p><p>视觉神经会变疲劳</p></li><li><p>例  子</p><p>田野向天空飞升</p></li></ul>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;p&gt;视频现象：&lt;a href=&quot;https://www.bilibili.com/video/av984238424&quot;&gt;https://www.bilibili.com/video/av984238424&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&quot;一&quot;&gt;&lt;a href=&quot;#一&quot; clas</summary>
+      
+    
+    
+    
+    
+    <category term="现象" scheme="https://qfxaile.github.io/tags/%E7%8E%B0%E8%B1%A1/"/>
+    
+    <category term="科普" scheme="https://qfxaile.github.io/tags/%E7%A7%91%E6%99%AE/"/>
+    
+    <category term="视觉" scheme="https://qfxaile.github.io/tags/%E8%A7%86%E8%A7%89/"/>
+    
+    <category term="神经疲劳" scheme="https://qfxaile.github.io/tags/%E7%A5%9E%E7%BB%8F%E7%96%B2%E5%8A%B3/"/>
+    
+  </entry>
   
   <entry>
     <title>在HEXO博客中显示图片</title>
