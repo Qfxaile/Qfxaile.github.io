@@ -212,7 +212,33 @@
     
     <div class="article-entry" itemprop="articleBody">
       
-        <h2 id="一-修改win11右键菜单为win10右键菜单风格"><a href="#一-修改win11右键菜单为win10右键菜单风格" class="headerlink" title="一.修改win11右键菜单为win10右键菜单风格"></a>一.修改win11右键菜单为win10右键菜单风格</h2>
+        <h2 id="一-修改win11右键菜单为win10右键菜单风格"><a href="#一-修改win11右键菜单为win10右键菜单风格" class="headerlink" title="一.修改win11右键菜单为win10右键菜单风格"></a>一.修改win11右键菜单为win10右键菜单风格</h2><p><strong>Win11切换旧版右键菜单，把下面的代码保存为bat文件运行：</strong></p>
+<figure class="highlight powershell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">reg add <span class="string">&quot;HKCU\Software\Classes\CLSID\&#123;86ca1aa0-34aa-4e8b-a509-50c905bae2a2&#125;\InprocServer32&quot;</span> /f /ve</span><br><span class="line">taskkill /f /im explorer.exe &amp; <span class="built_in">start</span> explorer.exe</span><br></pre></td></tr></table></figure>
+
+<p><strong>Win11恢复回新右键菜单，把下面的代码保存为bat文件运行：</strong></p>
+<figure class="highlight powershell"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br></pre></td><td class="code"><pre><span class="line">reg delete <span class="string">&quot;HKCU\Software\Classes\CLSID\&#123;86ca1aa0-34aa-4e8b-a509-50c905bae2a2&#125;&quot;</span> /f</span><br><span class="line">taskkill /f /im explorer.exe &amp; <span class="built_in">start</span> explorer.exe</span><br></pre></td></tr></table></figure>
+
+<h2 id="二-修改win11任务栏风格"><a href="#二-修改win11任务栏风格" class="headerlink" title="二.修改win11任务栏风格"></a>二.修改win11任务栏风格</h2><p><strong>1.免费</strong></p>
+<p>使用GitHub大佬<a target="_blank" rel="noopener" href="https://github.com/valinet">Valentin</a>的开源项目<a target="_blank" rel="noopener" href="https://github.com/valinet/ExplorerPatcher">ExplorerPatcher</a></p>
+<p>下载地址:1.原版<a target="_blank" rel="noopener" href="https://github.com/valinet/ExplorerPatcher/releases">Releases · valinet&#x2F;ExplorerPatcher (github.com)</a></p>
+<p>​				2.汉化版<a target="_blank" rel="noopener" href="https://github.com/ZetaSp/ExplorerPatcher">ZetaSp&#x2F;ExplorerPatcher: 在 Windows 11 上恢复高效的工作环境 (github.com)</a></p>
+<p>图片展示：</p>
+<blockquote>
+<img src="/2022/08/08/Win11%E2%80%94-win10/Screen-Appinn2022-04-20_14_35_16.jpg" class="" title="ExplorerPatcher - 2 步让 Windows 11 开始菜单重回 Windows 10，或者反过来 2">
+
+<p>图片来源:<a target="_blank" rel="noopener" href="https://www.appinn.com/explorerpatcher/">ExplorerPatcher - 2 步让 Windows 11 开始菜单重回 Windows 10，或者反过来 - 小众软件 (appinn.com)</a></p>
+</blockquote>
+<blockquote>
+<img src="/2022/08/08/Win11%E2%80%94-win10/20220425014243412.jpg" class="" title="Explorer Patcher中文版">
+
+<p>图片来源:<a target="_blank" rel="noopener" href="http://www.downxia.com/downinfo/384697.html">Explorer Patcher中文版|Explorer Patcher汉化版 V613.44.1 最新免费版 下载_当下软件园_软件下载 (downxia.com)</a></p>
+</blockquote>
+<p><strong>2.收费</strong></p>
+<p>使用Start11</p>
+<img src="/2022/08/08/Win11%E2%80%94-win10/image-20220808223944665.png" class="" title="image-20220808223944665">
+
+<p>这里不多做介绍 ，<a target="_blank" rel="noopener" href="https://store.lizhi.io/site/products/id/526">Start11 - Win 开始菜单任务栏自定义软件 恢复磁贴 支持 Win 10&#x2F;Win 11 - 荔枝软件商店 (lizhi.io)</a></p>
+
       
     </div>
     
